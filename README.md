@@ -3,6 +3,6 @@ The App is called "Souvenir" and it is a simple web app that allows users to pos
 
 ## Stack used
 * Mongo DB
-* Express JS
-* React JS
-* Node JS
+* Express
+* React
+* Node
